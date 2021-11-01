@@ -1,4 +1,3 @@
-# bootcamp-framework-padawans
 <p align="center"> 
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
 </p>
@@ -19,7 +18,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 <p>- Qual o problema?</p>
 <p>A falta de planejamento familiar que acaba gerando gravidez precoce. A falta de informação no geral em escolas, farmácias, no núcleo familiar, televisão, internet etc...</p>
 
-<p>Solução</p>
+<p>- Solução</p>
 <p>Garantir o acesso a informação sobre o métodos modernos sobre planejamento familiar.
 
 Promover campanhas em pontos específicos para conseguir expandir a conscientização sobre a importância de saúde sexual mais alinhada com a sua própria realidade.

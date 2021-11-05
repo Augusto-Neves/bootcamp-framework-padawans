@@ -1,0 +1,37 @@
+:root{
+    --black: #2D3748;
+    --green: #3F8C66;
+    --dark-green: #0F505D;
+    --light-green: #04C35C;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    width: 100vw;      
+}
+html{
+    font-size: 62.5%;
+}
+
+#wrapper{
+    display: flex;
+    align-items: stretch;
+    width: 100vw;
+    height: 100vh;   
+    
+    main{
+        display: flex;
+        flex-direction: column;
+        flex:8;
+        padding: 0 3.2rem;
+        align-items: center;
+        justify-content: center;
+    }
+}

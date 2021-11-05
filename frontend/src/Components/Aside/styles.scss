@@ -1,0 +1,26 @@
+aside {
+  flex: 7;
+  background-color: var(--green);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  padding: 1.2rem 8rem;
+
+  strong {
+    font: 700 3.6rem "Poppins", sans-serif;
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+    font-size: 2.4rem;
+    line-height: 2.3rem;
+    margin-top: 1.6rem;
+  }
+
+  img {
+    padding: 3rem;
+    object-fit: cover;
+  }
+}

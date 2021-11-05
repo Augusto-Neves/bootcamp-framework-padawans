@@ -8,17 +8,19 @@
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [Visualg](https://visualg3.com.br/)
-
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [React](https://pt-br.reactjs.org/)
+- [Figma](https://www.figma.com/)
 
 
 ## 🚀 Sobre o projeto
 
 ### Saúde e Bem-estar
 
-<p>- Qual o problema?</p>
+### Qual o problema?
 <p>A falta de planejamento familiar que acaba gerando gravidez precoce. A falta de informação no geral em escolas, farmácias, no núcleo familiar, televisão, internet etc...</p>
 
-<p>- Solução</p>
+### Solução
 <p>Garantir o acesso a informação sobre o métodos modernos sobre planejamento familiar.
 
 Promover campanhas em pontos específicos para conseguir expandir a conscientização sobre a importância de saúde sexual mais alinhada com a sua própria realidade.
